@@ -1,0 +1,42 @@
+.golo {
+    font-family: Averta, helvetica, arial, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+
+}
+.good {
+    font-family: Averta, helvetica, arial, sans-serif;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 25px;
+}
+.seder {
+    border: ridge;
+    border-width: 1px;
+    border-left: 0px ;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-color: black;
+    padding-top: 10px;;
+}
+.sender {
+    border: none;
+}
+.zz {
+    font-size: 14px;
+    font-family: Averta, helvetica, arial, sans-serif;
+    line-height: 20px;
+    font-weight: 400;
+    color: #646464;
+}
+.mamalee {
+    font-size: 20px;
+    font-family: Averta, helvetica, arial, sans-serif;
+    line-height: 28px;
+    font-weight: 400;
+    color: #646464;
+}
+.fofo {
+    border-radius: 10px;
+}
